@@ -1,0 +1,13 @@
+# Mac system files
+.DS_Store
+.DS_Store?
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+
+# Large data files
+data/raw/
